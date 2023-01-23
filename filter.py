@@ -13,3 +13,4 @@ for i in range(1,7):
 	print('bool f{} = macdFilter{}[0] > signalFilter{}[0] && signalFilter{}[0] < 0.0;'.format(i,i,i,i))
 
 print('fck you')
+//new feature
